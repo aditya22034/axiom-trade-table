@@ -3,8 +3,9 @@
 
 # png
 <img width="399" height="758" alt="Screenshot 2025-11-09 140421" src="https://github.com/user-attachments/assets/90e7bfb0-2c67-4705-b269-10614f0fda8e" />
-
-
+<img width="595" height="762" alt="Screenshot 2025-11-09 140503" src="https://github.com/user-attachments/assets/abc60e9c-64b2-4d25-a88d-1321f3a6e89c" />
+<img width="638" height="756" alt="Screenshot 2025-11-09 140524" src="https://github.com/user-attachments/assets/f7be8b46-ffec-4535-916f-d998532f0223" />
+<img width="810" height="758" alt="Screenshot 2025-11-09 140540" src="https://github.com/user-attachments/assets/1125e1b9-9539-4bb4-8cab-b7deb33dc878" />
 
 # Axiom Trade — Token Discovery (Pixel-Perfect Replica)
 
