@@ -1,6 +1,9 @@
 #vercel link
 [Vercel Deployment](https://axiom-trade-table.vercel.app/)
 
+# Youtube video link
+https://youtu.be/qg-e1oWsuTk
+
 # png
 <img width="399" height="758" alt="Screenshot 2025-11-09 140421" src="https://github.com/user-attachments/assets/90e7bfb0-2c67-4705-b269-10614f0fda8e" />
 <img width="595" height="762" alt="Screenshot 2025-11-09 140503" src="https://github.com/user-attachments/assets/abc60e9c-64b2-4d25-a88d-1321f3a6e89c" />
